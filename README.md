@@ -1,0 +1,1 @@
+This is a simple lorem ipsum text generator that generate random texts according to the number imputed in the form. if the input is empty, less than  zero or greater than ten, it generates one random paragragh. 
